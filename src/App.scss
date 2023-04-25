@@ -1,0 +1,18 @@
+.demoform {
+  margin: 100px auto 0;
+  width: 340px;
+  height: 600px;
+  position: relative;
+
+  .login {
+    background: #347eff;
+    border-radius: 4px;
+    margin: 20px 0px;
+    width: 100%;
+    height: 50px;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+    cursor: pointer;
+  }
+}
